@@ -44,7 +44,6 @@ body {
   cursor: pointer;
 }
 
-/* <!-- SUbSCRIBE THAPA TECHNICAL YOUTUBE CHANNEL https://www.youtube.com/thapatechnical --> */
 
 button {
   position: relative;
@@ -92,8 +91,6 @@ button.learn-more .circle .icon.arrow {
   height: 0.125rem;
   background: none;
 }
-
-/* <!-- SUbSCRIBE THAPA TECHNICAL YOUTUBE CHANNEL https://www.youtube.com/thapatechnical --> */
 
 button.learn-more .circle .icon.arrow::before {
   position: absolute;
